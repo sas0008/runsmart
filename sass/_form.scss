@@ -21,3 +21,30 @@
   line-height: 30px;
   color: #FFFFFF;
 }
+
+form{
+  display: flex;
+  flex-direction: column;
+  margin-top: 36px;
+  button{
+    margin: 20px 0 0 0;
+    width: 300px;
+    height: 55px;
+    background: #C70101;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .input{
+    padding-left: 21px;
+    width: 303px;
+    height: 54px;
+    background: #FFFFFF;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 66px;
+    color: #4B4B4B;
+  }
+}
