@@ -41,6 +41,14 @@ footer{
   border: 2px solid #FFFFFF;
   border-radius: 100%;
   padding: 14px;
+  a{
+    margin: 0;
+  }
+}
+
+.footer_items:hover{
+  background: blue;
+  transition: background-color 0.5s;
 }
 
 

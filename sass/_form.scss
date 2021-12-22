@@ -37,6 +37,12 @@ form{
     text-transform: uppercase;
     color: #FFFFFF;
   }
+
+  button:hover{
+    background: blue;
+    transition: background-color 0.5s;
+  }
+
   .input{
     padding-left: 21px;
     width: 303px;
